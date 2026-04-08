@@ -1,0 +1,5 @@
+{
+  "version": "0.0.0",
+  "url": "https://github.com/vriesdemichael/bitbucket-server-cli/releases/download/v0.0.0/bb_0.0.0_windows_amd64.zip",
+  "bin": "bb.exe"
+}
