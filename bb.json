@@ -1,16 +1,16 @@
 {
-  "version": "1.18.6",
+  "version": "1.18.7",
   "description": "A CLI for Bitbucket Server / Bitbucket Data Center",
   "homepage": "https://github.com/vriesdemichael/bitbucket-server-cli",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/vriesdemichael/bitbucket-server-cli/releases/download/v1.18.6/bb_1.18.6_windows_amd64.zip",
-      "hash": "39f3d3eef61797a753c383d5350dea2623aea9147c1b025aefb319df6882cd73"
+      "url": "https://github.com/vriesdemichael/bitbucket-server-cli/releases/download/v1.18.7/bb_1.18.7_windows_amd64.zip",
+      "hash": "aef6396728057cfc6065efd7fa527db834a0a6c83bd0aa566c6d906f6e6c825d"
     },
     "arm64": {
-      "url": "https://github.com/vriesdemichael/bitbucket-server-cli/releases/download/v1.18.6/bb_1.18.6_windows_arm64.zip",
-      "hash": "0ed0765b9e9ea44da4a1173a7ca91baf4b8b7f434a611bb691843293533a2fe0"
+      "url": "https://github.com/vriesdemichael/bitbucket-server-cli/releases/download/v1.18.7/bb_1.18.7_windows_arm64.zip",
+      "hash": "abadb31710be8c83750a21ca426ef1f4cd1814088d62c04d513b039cc1d9df86"
     }
   },
   "bin": "bb.exe",
