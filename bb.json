@@ -1,16 +1,16 @@
 {
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "A CLI for Bitbucket Server / Bitbucket Data Center",
   "homepage": "https://github.com/vriesdemichael/bitbucket-data-center-cli",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/vriesdemichael/bitbucket-data-center-cli/releases/download/v3.4.0/bb_3.4.0_windows_amd64_noupdate.zip",
-      "hash": "0ac8615cf830b86e4bc56fa4db10cfef770972dd59565201de7f7808cde4e521"
+      "url": "https://github.com/vriesdemichael/bitbucket-data-center-cli/releases/download/v3.5.0/bb_3.5.0_windows_amd64_noupdate.zip",
+      "hash": "890f9751ee86efa15f19db0b219bbd9c4b79f873ba61a76a261f200922d497e8"
     },
     "arm64": {
-      "url": "https://github.com/vriesdemichael/bitbucket-data-center-cli/releases/download/v3.4.0/bb_3.4.0_windows_arm64_noupdate.zip",
-      "hash": "51fba1881caa7fadfa85e929c82b23a25951807d3b382518d254fb3eedbe1d66"
+      "url": "https://github.com/vriesdemichael/bitbucket-data-center-cli/releases/download/v3.5.0/bb_3.5.0_windows_arm64_noupdate.zip",
+      "hash": "7ec0bf454ce79734d5ee390cfbd2896dd9efe7e2c489d54423bfb3abd076cce6"
     }
   },
   "bin": "bb.exe",
